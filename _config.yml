@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title.html
 redirects: yes
 exclude: [ _posts/source/, _posts/_private/ ]
 
-gems:
+plugins:
   - jekyll-pandoc
 
 markdown: pandoc
