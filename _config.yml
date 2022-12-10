@@ -1,8 +1,8 @@
-title : David Ketcheson
-tagline: Numerical analysis and nonlinear waves
+title : Hemi Luan
+tagline: MSCBM
 author :
-  name : David I. Ketcheson
-  email : dketch@gmail.com
+  name : Hemi Luan
+  email : hm-luan@msn.com
 
 permalink: /:year/:month/:day/:title.html
 redirects: yes
@@ -22,7 +22,7 @@ lsi: True
 
 pageviews: yes    ## toggle on sidebar pageviews 
 gitstamps: yes
-repo: https://github.com/ketch/labnotebook # used in linking history
+repo: https://github.com/13479776/mscbm.github.io # used in linking history
 
 baseurl: '/'
 
